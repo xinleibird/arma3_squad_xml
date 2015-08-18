@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<?xml-stylesheet href="squad.xsl?" type="text/xsl"?>
+<squad nick="XLMGS">
+	<name>XinLei Machine gun Squad</name>
+	<email>xinleibird@gmail.com</email>
+	<picture>logo.paa</picture>
+	<title>XinLei</title>
+	<member id="76561198011595198" nick="XinLei">
+		<name>XinLei</name>
+		<email>xinleibird@gmail.com</email>
+		<icq>Tencent QQ: 80303984</icq>
+		<remark>Biu~ Biu~ Biu~</remark>
+	</member>
+</squad>
